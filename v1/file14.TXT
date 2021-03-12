@@ -1,0 +1,6 @@
+100
+200
+50
+40
+55
+Make a regular triangleMake a regular triangleIt can't make a triangle

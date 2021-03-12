@@ -1,0 +1,6 @@
+5
+1
+3
+100
+33
+It can't make a triangle

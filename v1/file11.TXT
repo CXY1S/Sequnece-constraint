@@ -1,0 +1,5 @@
+100
+150
+20
+20
+30Form an isosceles triangle

@@ -1,0 +1,5 @@
+38
+15
+25
+100
+200Make a regular triangle

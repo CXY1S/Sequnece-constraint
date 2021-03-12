@@ -1,0 +1,5 @@
+100
+150
+3
+4
+5Form a right triangle

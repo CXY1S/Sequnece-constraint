@@ -1,0 +1,5 @@
+100
+200
+50
+10
+20It can't make a triangleIt can't make a triangle
