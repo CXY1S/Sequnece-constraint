@@ -1,0 +1,5 @@
+20
+25
+36
+133
+111Make a regular triangle
