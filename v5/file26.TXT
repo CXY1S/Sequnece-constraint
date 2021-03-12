@@ -1,0 +1,5 @@
+80
+20
+32
+25
+11It can't make a triangle
