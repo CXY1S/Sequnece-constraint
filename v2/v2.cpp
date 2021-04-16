@@ -35,7 +35,7 @@ void descending_sort(int a[], int len)
 int main() 
 {     
       int count = 0;
-      char filename[] = "C:\\Users\\123\\Desktop\\数据\\v2路径\\file33.TXT"; 
+      char filename[] = "C:\\Users\\123\\Desktop\\脢媒戮脻\\v2脗路戮露\\file33.TXT"; 
       FILE *fp; 
       int data[N];
       int Num = 0;
@@ -64,8 +64,8 @@ int main()
 	  if(staify  >100&&staify<200)
 	  {
 	  	ascending_sort(data,Num);
-	    close(); 
-	    count =count-1;
+
+		  
 	  }
 	  else if(staify>200)
 	  {
